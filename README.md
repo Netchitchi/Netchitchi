@@ -54,7 +54,8 @@ I'm a Computer Engineering graduate from IADE - Faculdade de Design, Tecnologia 
 
 Here are a few projects I've worked on:
 
-- [**Task Master**](https://github.com/Netchitchi/Task-Master): A REST API built with Java, Spring Boot and JPA/Hibernate for collaborative task management, with authentication and secure list sharing between users.
+- [**Restaurant Review**](https://github.com/Netchitchi/Restaurant-Review): A REST API built with Java, Spring Boot and Spring Security for allergy-focused restaurant reviews, with stateless JWT authentication, BCrypt password hashing, and role-based authorization (USER/ADMIN). Includes a review moderation workflow that recalculates restaurant allergy scores from approved reviews.
+- [**Task Master**](https://github.com/Netchitchi/Task-Master): A REST API built with Java, Spring Boot, Spring Security and JPA/Hibernate for collaborative task management, with JWT authentication and list sharing between users through owner/collaborator roles.
 - [**Spot Home**](https://github.com/Netchitchi/Spot-Home): A real estate marketplace inspired by Zillow, with a high-performance REST API (Node.js, Fastify, Prisma, PostgreSQL), GIS features with Leaflet.js and GeoJSON, and automated geocoding through the Google Maps API.
 
 ---
