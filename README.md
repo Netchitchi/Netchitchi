@@ -1,4 +1,4 @@
-# Hello, I'm Edson Netchitchi 👋
+# Hello, I'm Edson Manuel 👋
 
 ---
 
