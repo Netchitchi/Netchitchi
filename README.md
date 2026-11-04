@@ -3,8 +3,7 @@
 ---
 
 ## About Me
-
-I'm a Computer Engineering graduate from IADE - Faculdade de Design, Tecnologia e Comunicação, currently pursuing a master's in Creative Computing and AI. I'm passionate about backend development, security and building high-impact technical solutions.
+I’m a Computer Engineering graduate from the European University looking for my first role as a Junior Java Developer. I focus on backend development: REST APIs with Java and Spring Boot, JWT authentication and role-based authorization with Spring Security, and data persistence with JPA/Hibernate. I enjoy turning real problems into reliable, well-structured software.
 
 ---
 
